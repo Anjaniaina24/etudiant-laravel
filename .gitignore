@@ -1,0 +1,25 @@
+# Dépendances
+/vendor
+/node_modules
+
+# Environnement
+.env
+.env.*
+
+# Logs
+/storage/logs
+*.log
+
+# Cache / build
+/bootstrap/cache
+/public/storage
+
+# IDE / OS
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+
+# PHPUnit
+.phpunit.result.cache
+
